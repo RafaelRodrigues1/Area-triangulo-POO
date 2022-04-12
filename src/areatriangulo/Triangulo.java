@@ -24,11 +24,11 @@ public class Triangulo {
     }
     
     public void insereLados(){
-        System.out.print("Insira o valor do lado a: ");
+        System.out.print("Insira o valor do lado A: ");
         this.ladoa = in.nextDouble();
-        System.out.print("Insira o valor do lado b: ");
+        System.out.print("Insira o valor do lado B: ");
         this.ladob = in.nextDouble();
-        System.out.print("Insira o valor do lado c: ");
+        System.out.print("Insira o valor do lado C: ");
         this.ladoc = in.nextDouble();
     }
     
